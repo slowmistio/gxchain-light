@@ -3382,9 +3382,10 @@ he@1.1.1, he@1.1.x:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
 
-highcharts@4.2.6:
-  version "4.2.6"
-  resolved "http://registry.npmjs.org/highcharts/-/highcharts-4.2.6.tgz#f6fe336aa49f716d3cec77e60b535b851d751806"
+highcharts@8.1.1:
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/highcharts/-/highcharts-8.1.1.tgz#7dc011e260289ab64d775807df0d13b85ed88338"
+  integrity sha512-DSkI+fAqkqYDslOVLcEk8DX7W9itRIwzsdS0uVEOnVf0LF1hSKZtDINHP7ze/uBN9NdWQV9HydtiPTrkLx0lXg==
 
 highcharts@^4.2.3:
   version "4.2.7"
